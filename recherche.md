@@ -11,5 +11,5 @@ A l’origine, WordPress était connu pour créer des blogs : c’est maintenant
 
 ## étude de benchmarking des CMS .
 
-Comparatif Joomla vs WordPress vs Drupal : sécurité, SEO, e-commerce, vitesse. [Cliquez ici](https://duckduckgo.com).
+Comparatif Joomla vs WordPress vs Drupal : sécurité, SEO, e-commerce, vitesse. [Cliquez ici](https://www.opportunites-digitales.com/joomla-vs-wordpress-vs-drupal/).
 
